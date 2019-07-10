@@ -1,0 +1,32 @@
+.MemePage {
+  margin: 0px auto;
+  top: 30%;
+  left: 50%;
+  /* position: absolute;
+  transform: translate(-50%, -50%); */
+}
+
+.TextArea {
+  width: 75%;
+  min-height: 150px;
+  background-color: #d1d5de;
+  margin-bottom: 10px;
+}
+.Button {
+  display: block;
+  margin: 0px auto;
+  background-color: #d1d5de;
+}
+.Div {
+  margin-top: 20px;
+}
+
+.Div p {
+  color: #a4acae;
+  font-size: 20px;
+  width: 100%;
+  margin: 0px auto;
+  margin-bottom: 10px;
+}
+/* .Result {
+} */
